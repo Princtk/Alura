@@ -1,0 +1,6 @@
+c:\users\stag008\source\repos\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe.config
+c:\users\stag008\source\repos\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe
+c:\users\stag008\source\repos\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.pdb
+c:\users\stag008\source\repos\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+c:\users\stag008\source\repos\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.exe
+c:\users\stag008\source\repos\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.pdb

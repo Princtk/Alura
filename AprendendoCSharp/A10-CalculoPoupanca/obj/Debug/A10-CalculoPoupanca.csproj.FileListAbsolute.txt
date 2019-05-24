@@ -1,0 +1,6 @@
+c:\users\stag008\source\repos\AprendendoCSharp\A10-CalculoPoupanca\bin\Debug\A10-CalculoPoupanca.exe.config
+c:\users\stag008\source\repos\AprendendoCSharp\A10-CalculoPoupanca\bin\Debug\A10-CalculoPoupanca.exe
+c:\users\stag008\source\repos\AprendendoCSharp\A10-CalculoPoupanca\bin\Debug\A10-CalculoPoupanca.pdb
+c:\users\stag008\source\repos\AprendendoCSharp\A10-CalculoPoupanca\obj\Debug\A10-CalculoPoupanca.csproj.CoreCompileInputs.cache
+c:\users\stag008\source\repos\AprendendoCSharp\A10-CalculoPoupanca\obj\Debug\A10-CalculoPoupanca.exe
+c:\users\stag008\source\repos\AprendendoCSharp\A10-CalculoPoupanca\obj\Debug\A10-CalculoPoupanca.pdb

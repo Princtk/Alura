@@ -1,0 +1,6 @@
+c:\users\stag008\source\repos\AprendendoCSharp\Ex01\bin\Debug\Ex01.exe.config
+c:\users\stag008\source\repos\AprendendoCSharp\Ex01\bin\Debug\Ex01.exe
+c:\users\stag008\source\repos\AprendendoCSharp\Ex01\bin\Debug\Ex01.pdb
+c:\users\stag008\source\repos\AprendendoCSharp\Ex01\obj\Debug\Ex01.csproj.CoreCompileInputs.cache
+c:\users\stag008\source\repos\AprendendoCSharp\Ex01\obj\Debug\Ex01.exe
+c:\users\stag008\source\repos\AprendendoCSharp\Ex01\obj\Debug\Ex01.pdb

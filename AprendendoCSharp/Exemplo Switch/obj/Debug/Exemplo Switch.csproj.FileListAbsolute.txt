@@ -1,0 +1,6 @@
+c:\users\stag008\source\repos\AprendendoCSharp\Exemplo Switch\bin\Debug\Exemplo Switch.exe.config
+c:\users\stag008\source\repos\AprendendoCSharp\Exemplo Switch\bin\Debug\Exemplo Switch.exe
+c:\users\stag008\source\repos\AprendendoCSharp\Exemplo Switch\bin\Debug\Exemplo Switch.pdb
+c:\users\stag008\source\repos\AprendendoCSharp\Exemplo Switch\obj\Debug\Exemplo Switch.csproj.CoreCompileInputs.cache
+c:\users\stag008\source\repos\AprendendoCSharp\Exemplo Switch\obj\Debug\Exemplo Switch.exe
+c:\users\stag008\source\repos\AprendendoCSharp\Exemplo Switch\obj\Debug\Exemplo Switch.pdb
