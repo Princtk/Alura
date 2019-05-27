@@ -1,7 +1,0 @@
-c:\users\stag008\source\repos\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
-c:\users\stag008\source\repos\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
-c:\users\stag008\source\repos\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
-c:\users\stag008\source\repos\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csprojAssemblyReference.cache
-c:\users\stag008\source\repos\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
-c:\users\stag008\source\repos\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
-c:\users\stag008\source\repos\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb

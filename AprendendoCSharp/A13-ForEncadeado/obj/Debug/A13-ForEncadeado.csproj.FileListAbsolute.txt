@@ -1,6 +1,0 @@
-c:\users\stag008\source\repos\AprendendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.exe.config
-c:\users\stag008\source\repos\AprendendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.exe
-c:\users\stag008\source\repos\AprendendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.pdb
-c:\users\stag008\source\repos\AprendendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.csproj.CoreCompileInputs.cache
-c:\users\stag008\source\repos\AprendendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.exe
-c:\users\stag008\source\repos\AprendendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.pdb
